@@ -43,7 +43,7 @@
     - Like A* algorithm uses corner pattern database as heuristic
     - But runs it multiple times with increasing max bound each time
     - Memory requirement is similar to BFS
-    - But is the quite fast at solving qube compared to other algorithms due to use of heuristic
+    - But is the quite fast at solving cube compared to other algorithms due to use of heuristic
 
 ## Display
 
